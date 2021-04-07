@@ -1,6 +1,2 @@
-paddlepaddle
-paddlehub
+paddlepaddle >= 2.0.1
 visualdl
-paddleseg
-paddlenlp
-paddleocr
